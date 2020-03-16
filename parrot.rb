@@ -3,4 +3,6 @@
 def parrot(s=Squawk, *p)
 puts s
 return s
+puts *p
+returns *p
 end
