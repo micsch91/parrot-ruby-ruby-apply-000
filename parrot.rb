@@ -2,7 +2,7 @@
 # returns the phrase
 def parrot(s=Squawk, *p)
 puts s
-return s
+returns s
 puts *p
-return *p
+returns *p
 end
